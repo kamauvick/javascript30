@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(https://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: url(https://images.unsplash.com/photo-1454035554703-a345f67effea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80) bottom center;
   background-size: cover;
 }
 
@@ -8,6 +8,14 @@ body,html {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+}
+
+#heading{
+  font-size: 40px;
+  color: aliceblue;
+  text-align: center;
+  font-family: system-ui,serif;
+  margin-top: 50px;
 }
 
 .keys {
